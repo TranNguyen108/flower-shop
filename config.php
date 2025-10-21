@@ -3,6 +3,7 @@
  * Configuration File - Enhanced Security
  * Database connection, Session management, Security settings
  * Updated: December 2025
+ * Author: NguyenSinh69
  */
 
 // Set UTF-8 encoding for all pages
