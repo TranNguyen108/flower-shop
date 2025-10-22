@@ -2,6 +2,7 @@
 /**
  * Login Page - Enhanced Security
  * Password hashing, CSRF protection, Prepared statements
+ * Updated: 22/10/2025 - Them session timeout
  */
 
 @include '../config.php';
