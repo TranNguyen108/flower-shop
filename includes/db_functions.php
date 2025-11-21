@@ -1,8 +1,9 @@
 <?php
 /**
  * Database Security Functions
- * Prepared Statements để bảo mật SQL Injection
- * Updated: December 2025
+ * Prepared Statements chong SQL Injection
+ * CSRF Protection va XSS Prevention
+ * Updated: 23/10/2025
  */
 
 // SELECT query với prepared statement - Returns mysqli_result
