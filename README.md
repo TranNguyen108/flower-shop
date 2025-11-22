@@ -1,8 +1,9 @@
 # 🌸 Flower Store Website - E-Commerce Platform
 
 **Version**: 3.0 - Folder Reorganization  
-**Last Updated**: December 26, 2024  
-**Status**: ✅ Production Ready
+**Last Updated**: November 21, 2025  
+**Status**: ✅ Production Ready  
+**Contributors**: NguyenSinh69, TranNguyen108
 
 ---
 
